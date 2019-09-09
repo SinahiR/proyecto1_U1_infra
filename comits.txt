@@ -1,0 +1,23 @@
+commit ebcf15420962d1f8822679f13adf14e5edf60746
+Author: Sinahi Ruiz <44352436+SinahiRuiz@users.noreply.github.com>
+Date:   Mon Sep 2 09:42:38 2019 -0600
+
+    Create README.md
+
+commit 74f72d022c770d5fe46529edb1f0ba2b23fce1eb
+Author: sinahiruiz <siruizro@ittepic.edu.mx>
+Date:   Mon Sep 2 09:13:05 2019 -0600
+
+    version alternativa con un login
+
+commit b727bc490c7a5d84a6e84ef347359eb5db6d67a0
+Author: sinahiruiz <siruizro@ittepic.edu.mx>
+Date:   Thu Aug 29 09:23:11 2019 -0600
+
+    Index con codigo HTML
+
+commit b2fefa91d3cc3b8dac402afb3319ecc52cfe2d01
+Author: Sinahi Ruiz <siruizro@ittepic.edu.mx>
+Date:   Wed Aug 28 09:42:44 2019 -0600
+
+    Infra Web
